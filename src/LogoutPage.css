@@ -1,0 +1,16 @@
+
+
+.logout-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5; 
+  }
+  
+  .logout-container h2 {
+    font-size: 24px;
+    color: #4a90e2; 
+  }
+  
